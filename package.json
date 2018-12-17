@@ -1,8 +1,9 @@
 {
   "name": "exif-image",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Get EXIF ​​data from image",
-  "main": "index.js",
+  "main": "dist/main.js",
+  "types" : "dist/lib/app.d.ts",
   "scripts": {
     "build": "webpack"
   },
