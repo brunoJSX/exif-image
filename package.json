@@ -1,6 +1,6 @@
 {
   "name": "exif-image",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Get EXIF ​​data from image",
   "main": "index.js",
   "scripts": {
