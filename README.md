@@ -20,7 +20,7 @@ function callback(data) {
 
 ```
 ```sh
-Output should be 1 | 2 | 3 ... 8
+Output should be 1 | 2 | 3 ... 8 -> This is equivalent to the EXIF code in the image
 ```
 ### TypeScript
 ```typescript
