@@ -1,4 +1,4 @@
-export const getOrientation = (file: File, callback: Function) => {
+export const getOrientation: Function = (file: File, callback: Function) => {
     var reader = new FileReader();
 
     reader.onload = (event: ProgressEvent) => {

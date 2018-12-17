@@ -1,1 +1,1 @@
-export declare const getOrientation: (file: File, callback: Function) => void;
+export declare const getOrientation: Function;
