@@ -1,0 +1,26 @@
+{
+  "name": "exif-image",
+  "version": "1.0.0",
+  "description": "Get EXIF ​​data from image",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TryckBR/exif-image.git"
+  },
+  "author": "Bruno Henrique <bruno28dpvat@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TryckBR/exif-image/issues"
+  },
+  "homepage": "https://github.com/TryckBR/exif-image#readme",
+  "devDependencies": {
+    "@types/node": "^10.12.15",
+    "ts-loader": "^5.3.1",
+    "typescript": "^3.2.2",
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
